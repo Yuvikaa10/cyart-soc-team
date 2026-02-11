@@ -1,0 +1,15 @@
+Subject: Escalation – Critical Ransomware Activity on Server-X
+
+Dear Tier 2 SOC Team,
+
+A critical ransomware incident has been detected on Server-X, a production system. 
+The alert was generated after identifying a suspicious executable named crypto_locker.exe 
+and abnormal outbound communication from source IP 192.168.1.50. 
+Multiple files on the system appear to be encrypted, indicating active compromise.
+
+The affected server has been isolated to prevent lateral movement. 
+Due to the high business impact and confirmed malicious indicators, 
+this incident is being escalated for advanced investigation and response.
+
+Regards,
+SOC Analyst
